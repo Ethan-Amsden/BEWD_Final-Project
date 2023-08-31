@@ -10,3 +10,12 @@ I also got to assist in other areas such as the back-end PHP and styling the fro
 Click here to view the [Model](https://github.com/Ethan-Amsden/BEWD_Final-Project/tree/main/Famous_quotes/model).
 Click here to view the [Control](https://github.com/Ethan-Amsden/BEWD_Final-Project/blob/main/Famous_quotes/index.php).
 Click here to view the [View](https://github.com/Ethan-Amsden/BEWD_Final-Project/tree/main/Famous_quotes/view).
+
+### Example Images Of the Project
+
+**Back-End Quote List Page:**
+![Quote List](BEWD-Images/BEWD_Quote-list.JPG) 
+### 
+**Add/Update Quote Page:**
+
+![Quote List](BEWD-Images/Quote_Add-Update-Form.JPG)
